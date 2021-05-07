@@ -1,2 +1,2 @@
 [submodule "burger-builder-starting-setup"]
-	ignore = untracked
+	ignore = dirty
